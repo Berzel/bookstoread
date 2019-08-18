@@ -1,0 +1,10 @@
+jar/CompositeFilterTest.class
+jar/BookshelfProgressTest.class
+jar/BooksParameterResolver.class
+jar/YearBeforeFilterTest.class
+jar/BookshelfTest.class
+jar/YearFilterTest.class
+jar/YearAfterFilterTest.class
+jar/BookshelfSearchTest.class
+jar/FilterBoundaryTests.class
+jar/AuthorFilterTest.class

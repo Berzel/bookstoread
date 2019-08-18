@@ -1,0 +1,12 @@
+jar/YearAfterFilter.class
+jar/YearFilter.class
+jar/YearBeforeFilter.class
+jar/BookSorter$AuthorSorter.class
+jar/Book.class
+jar/BookSorter$TitleSorter.class
+jar/AuthorFilter.class
+jar/Progress.class
+jar/BookFilter.class
+jar/Bookshelf.class
+jar/BookSorter.class
+jar/CompositeFilter.class
