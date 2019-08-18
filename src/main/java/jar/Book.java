@@ -2,6 +2,9 @@ package jar;
 
 import java.time.LocalDate;
 
+import lombok.Data;
+
+@Data
 public class Book {
 
   private String title;
@@ -14,30 +17,6 @@ public class Book {
   public Book(String title, String author, LocalDate publishedAt) {
     this.title = title;
     this.author = author;
-    this.publishedAt = publishedAt;
-  }
-
-  public String getTitle() {
-    return title;
-  }
-
-  public void setTitle(String title) {
-    this.title = title;
-  }
-
-  public String getAuthor() {
-    return author;
-  }
-
-  public void setAuthor(String author) {
-    this.author = author;
-  }
-
-  public LocalDate getPublishedAt() {
-    return publishedAt;
-  }
-
-  public void setPublishedAt(LocalDate publishedAt) {
     this.publishedAt = publishedAt;
   }
 
